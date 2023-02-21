@@ -182,8 +182,8 @@ aside > ul {
 
 footer  {
     
-    background-color: white);
-    color: var(--cor1);
+    background-color: white;
+    color: var(--cor3);
     font-weight: bolder; 
     text-align: center;
 }
